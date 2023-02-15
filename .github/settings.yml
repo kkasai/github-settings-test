@@ -4,4 +4,3 @@ repository:
   delete_branch_on_merge: true
 environments:
   - name: prod
-  - name: stg
