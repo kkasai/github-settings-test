@@ -2,3 +2,5 @@ repository:
   name: github-settings-test
   private: false
   delete_branch_on_merge: true
+environments:
+  - name: prod
